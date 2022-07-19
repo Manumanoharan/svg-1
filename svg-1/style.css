@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.eli{
+
+    fill:rgb(21, 221, 31);
+    stroke: rgb(3, 85, 58);
+    stroke-width: 2;
+}
